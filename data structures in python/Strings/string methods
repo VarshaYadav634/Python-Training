@@ -1,0 +1,33 @@
+s=' python ProGramming '
+print(s.upper())
+print(s.lower())
+print(s.swapcase())
+print(s.title())
+print(s.capitalize())
+
+# return boolean value
+print(s.isalpha())
+print(s.isdigit())
+print(s.isalnum())
+print(s.isupper())
+print(s.islower())
+
+print(s.split("o"))
+print(s.split())
+print(s.partition("o"))
+print(s.strip())
+
+
+
+#print(s.index('z'))#error
+print(s.index('o'))
+print(s.find('o'))
+print(s.find('z'))#doesnt show error
+print(s.count('o'))
+
+
+
+
+print(s.startswith("py"))
+print(s.startswith("th",2))
+print(s.endswith("ng"))
