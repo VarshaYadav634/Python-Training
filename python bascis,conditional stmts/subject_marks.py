@@ -1,0 +1,9 @@
+s1=int(input("print each subject marks"))
+s2=int(input("print each subject marks"))
+s3=int(input("print each subject marks"))
+s4=int(input("print each subject marks"))
+s5=int(input("print each subject marks"))
+total_marks=s1+s2+s3+s4+s5
+percentage=(total_marks/500)*100
+print(f"Total Marks = {total_marks}/500")
+print(f"Percentage = {percentage:.2f}%")

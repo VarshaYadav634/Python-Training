@@ -1,0 +1,23 @@
+1.free code camp ->responsive design, css
+
+2.mongodb certification ->July 20 (focus on indexes,CRUD)
+
+3.hacker rank ->python, java ,sql
+
+4.leetcode -> DSA ->Arrays ,String, Dictionary(Hash Table), Stacks ,Queues ,Linked Lists (Advanced Topics: Trees,Graphs,DP)
+
+Note: Youtube Channel -> Neetcode
+
+5.project ->smartbridge FOOD ORDERING WEB APP MERN
+
+6.project ->Portfolio Project MERN : https://www.youtube.com/watch?v=6DwXDx9YNIs
+		
+	    prerequisite:React,Tailwind CSS
+
+✅7.project ->Mini Project (python full stack) 
+
+8.Git Hub ->dumping projects 
+
+9.Keyboard Practicing
+
+10.Watch Insta Reels ->#DSA
